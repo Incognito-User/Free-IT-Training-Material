@@ -294,14 +294,19 @@ Powerful, flexible, and open source, the Suricata is far more than an IDS and IP
 It can be integrated and embedded within many commercial and open-source solutions and provides us with several features such as:
 
 • Network Security Monitoring (NSM) ecosystem
+
 • IDS / IPS
+
 • Automatic Protocol Detection
+
 • Lua Scripting
+
 • Industry Standard Outputs
 
 The good news is that this project and code are supported by the Open Information Security Foundation (OISF) which is committed to keeping Suricata open source forever!
 
 • Source: https://suricata.io/
+
 • Documentation: https://lnkd.in/gur47hrG
 
 Oh wait, another good news, Josh Stroschein has a 3-hour YouTube practical talk on how to use this tool, dig deep into network traffic, deal with new forms of attack, and search for evidence of breaches: https://lnkd.in/g7Thj-jm
