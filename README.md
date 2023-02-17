@@ -238,3 +238,51 @@ https://lnkd.in/ebeJwVXQ
 🌟 A list of bug bounty writeup on Pentester Land
 
 https://lnkd.in/e4G9xB9A
+
+Cert Prep:
+
+CISSP - https://lnkd.in/gpdi6qqB
+
+CISM - https://lnkd.in/gyi9nN92
+
+CCSP (Cloud) - https://lnkd.in/gBpGgkw4
+
+MS Security Architect - https://lnkd.in/gu5SemKs
+
+ISC (2) Cyber Security Cert - https://lnkd.in/gRkui8eQ
+
+Ethical Hacking
+
+Intro to Ethical Hacking - https://lnkd.in/g3QUkHDh
+
+Footprint & Recon - https://lnkd.in/gZ_a_pwe
+
+Scanning Networks - https://lnkd.in/gHNN2-SV
+
+Vulnerability Analysis - https://lnkd.in/gsXXaFUg
+
+Sniffers - https://lnkd.in/gDMDJqtn
+
+Evading Firewalls - https://lnkd.in/gc3VfnhR
+
+Hacking Cloud - https://lnkd.in/gmdABQbn
+
+Learning Application Security:
+
+Learning OWASP Top Ten - https://lnkd.in/gPgXc_iK
+
+Web Security - https://lnkd.in/g6k7x4d2
+
+ASP.NET Core Security - https://lnkd.in/gwxtbWZR
+
+User Auth / Access Control - https://lnkd.in/gRcyJVqk
+
+SQL Injection - https://lnkd.in/gqTv_R4e
+
+Leadership:
+
+10 Rules for Leadership - https://lnkd.in/gXZmsAmh
+
+Leadership Tactics - https://lnkd.in/gfU-TSyq
+
+Leader Habits - https://lnkd.in/gbwwaE5E
