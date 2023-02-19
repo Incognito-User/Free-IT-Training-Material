@@ -311,3 +311,16 @@ The good news is that this project and code are supported by the Open Informatio
 
 Oh wait, another good news, Josh Stroschein has a 3-hour YouTube practical talk on how to use this tool, dig deep into network traffic, deal with new forms of attack, and search for evidence of breaches: https://lnkd.in/g7Thj-jm
 
+- Free Docker 101 Course - https://lnkd.in/etP2Ue_u
+
+- General Technical Fundamentals https://lnkd.in/dUVwC3Be
+
+- Networking Fundamentals https://lnkd.in/duW_jDt7
+
+- Advanced networking https://lnkd.in/gGDkRcPa
+
+DNS and DNSSEC -  https://lnkd.in/g6vAv3fz 
+
+ https://lnkd.in/dRR-QZ3D also has a full set of free AWS mini projects
+ 
+ 
