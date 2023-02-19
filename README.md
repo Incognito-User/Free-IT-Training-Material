@@ -1,5 +1,7 @@
 # Free-IT-Training-Material
 
+[Getting Started with Cybersecurtiy.pdf](https://github.com/Incognito-User/Free-IT-Training-Material/files/10777878/Getting.Started.with.Cybersecurtiy.pdf)
+
 🔰🔰 Splunk 
 
 🔗 What is Splunk?: https://lnkd.in/g5RhvQJa
