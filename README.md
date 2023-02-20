@@ -144,6 +144,14 @@ Mitre Attack vs Cyber Kill chain on blackberry.com
 
 https://lnkd.in/e7BW6CP3
 
+✨✨ Cybersecurity Frameworks ✨✨
+
+✅1. NIST Cybersecurity Framework : https://lnkd.in/g4EnF9MF
+
+✅2. ISO 27001 and ISO 27002 : https://lnkd.in/gpxuzhzv
+
+✅3. SOC2: https://lnkd.in/gmqsgHxc
+
 💥[𝐂𝐘𝐁𝐄𝐑𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘] 𝐒𝐓𝐀𝐑𝐓 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆 𝐅𝐎𝐑 𝐅𝐑𝐄𝐄]💥
 
 🔰 1. NSE 1,2 & 3 - https://lnkd.in/gS2MQ-5d
